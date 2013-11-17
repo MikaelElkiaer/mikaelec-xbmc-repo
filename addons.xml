@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.mikaelec" name="mikaelec's XBMC Addons" version="1.0" provider-name="mikaelec">
+    <extension point="xbmc.addon.repository" name="mikaelec's XBMC Addon Repository">
+        <info compressed="false">https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/addons.xml</info>
+        <checksum>https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>mikaelec's Addon Repository</summary>
+        <description>Download and install mikaelec's addon repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="script.dstasks" name="DSTasks" version="0.1" provider-name="mikaelec">
+	<requires>
+		<import addon="xbmc.python" version="2.7.3"/>
+	</requires>
+  <extension point="xbmc.python.script" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<description>Manage Synology DownloadStation tasks</description>
+		<summary>Manage DS tasks</summary>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
