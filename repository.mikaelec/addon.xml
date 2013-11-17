@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="mikaelec's XBMC Addon Repository">
         <info compressed="false">https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/addons.xml</info>
         <checksum>https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master</datadir>
+        <datadir zip="true">https://github.com/mikaelec/mikaelec-xbmc-repo/raw/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>mikaelec's Addon Repository</summary>
