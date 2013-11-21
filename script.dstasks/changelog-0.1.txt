@@ -1,2 +1,2 @@
 0.1
-First release to repository
+- First release to repository

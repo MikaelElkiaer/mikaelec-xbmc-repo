@@ -7,6 +7,3 @@
 -- New progress bar (opaque and in the background)
 
 - Performance upgrades
-
-0.1
-- First release to repository

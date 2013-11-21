@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="script.dstasks" name="DSTasks" version="0.1" provider-name="mikaelec">
+<addon id="script.dstasks" name="DSTasks" version="0.2" provider-name="mikaelec">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
