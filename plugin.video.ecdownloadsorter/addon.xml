@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <addon id="plugin.video.ecdownloadsorter" name="ecDownloadSorter" version="0.1" provider-name="mikaelec">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -13,16 +12,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-
-<addon id="script.dstasks" name="DSTasks" version="0.2" provider-name="mikaelec">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-	</requires>
-    <extension point="xbmc.python.script" library="default.py"/>
-	<extension point="xbmc.addon.metadata">
-		<description>Manage Synology DownloadStation tasks</description>
-		<summary>Manage DS tasks</summary>
-		<platform>all</platform>
-	</extension>
-</addon>
-</addons>
