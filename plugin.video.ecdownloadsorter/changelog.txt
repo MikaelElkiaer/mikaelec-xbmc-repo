@@ -1,2 +1,5 @@
+0.2
+- Lots of refactoring, no features added
+
 0.1
 - First release to repository
