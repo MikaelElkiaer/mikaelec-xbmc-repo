@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="script.dstasks" name="DSTasks" version="0.2" provider-name="mikaelec">
+<addon id="script.dstasks" name="DSTasks" version="0.3" provider-name="mikaelec">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>

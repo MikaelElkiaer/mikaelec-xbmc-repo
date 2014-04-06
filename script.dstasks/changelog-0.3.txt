@@ -1,0 +1,2 @@
+0.3
+- Added action id, instead of key, so that it works on both pc and other devices (e.g. remote)
