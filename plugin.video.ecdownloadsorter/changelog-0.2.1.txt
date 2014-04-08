@@ -1,0 +1,2 @@
+0.2.1
+- Fixed error, caused by not properly building directory after choosing a download, by building directory even if no changes were made
