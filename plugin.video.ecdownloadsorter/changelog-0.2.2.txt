@@ -1,0 +1,2 @@
+0.2.2
+- Lots of speedup, no new features added

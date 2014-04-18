@@ -1,3 +1,6 @@
+0.2.2
+- Lots of speedup, no new features added
+
 0.2.1
 - Fixed error, caused by not properly building directory after choosing a download, by building directory even if no changes were made
 
